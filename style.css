@@ -5407,19 +5407,21 @@ span.fill.my-class2 {
     left: 0;
     height: 0;
     width: 100%;
-    background: #0B59DB;
+    background: #0b59db;
+    
     z-index: -1;
     transition: .5s;
 }
 .em-service-title1 h2 {
-    font-size: 22px;
-    line-height: 32px;
-    padding: 16px 0 10px;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 10px 0 10px;
     transition: .5s;
+    color: #0C59DB;
 }
 .em-service-text1 p {
     transition: .5s;
-    line-height: 30px;
+    line-height: 20px;
 }
 /*em icon*/
 .em-icon1 {
