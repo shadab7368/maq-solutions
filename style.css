@@ -4171,7 +4171,7 @@ a.em-active-button:hover {
     margin: 0;
 }
 .single_about_thumb_inner img {
-    width: 100%;
+    width: 80%;
 }
 .about_thumb img {
     width: 100%;
@@ -4579,7 +4579,7 @@ span.fill.my-class2 {
 .single_about_shape_thumb {
     position: absolute;
     bottom: -70px;
-    z-index: -1;
+    z-index: -2;
     left: -94px;
 }
 .single_about_shape_thumb img {
@@ -8691,6 +8691,7 @@ span.chose-icon {
     border-radius: 50%;
     color: #fff;
     display: inline-block;
+    /* list-style-type:none; */
 }
 span.chose-icon1 {
     width: 20px;
