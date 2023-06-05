@@ -4067,7 +4067,7 @@ a.em-active-button:hover {
 	font-size: 45px;
 	text-align: center;
 	display: inline-block;
-	color: #fff;
+	color: #ffffff;
 	overflow: hidden;
 }
 .techno_flipbox_font .flipbox_desc p {
@@ -4920,7 +4920,7 @@ span.fill.my-class2 {
 .service_style_five:hover .service_style_five_icon i,
 .service_style_five:hover .service_style_five_text p,
 .service_style_five:hover .service_style_five_button a{
-	color:#fff;
+	color:#ffffff;
 }
 
 /* Service Style Six */
